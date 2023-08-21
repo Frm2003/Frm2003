@@ -5,6 +5,7 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Frm2003&layout=compact&theme=github_dark&border_radius=5&hide_border=true">
 </div>
 
+<!--
 # tecnologias mais utilizadas
 
 <div style="display: inline_block">
@@ -12,3 +13,4 @@
     <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
     <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </div>
+--:
